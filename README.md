@@ -1,10 +1,13 @@
 # Clash Stone
 Ceci est un projet de NSI Terminal d'un groupe de 4 lycéens, 2 d'entre eux (dont moi) ont 
-décidé de continuer même après l'avoir rendu pour voir le résultat qui aurait pu être réalisé :
+décidé de continuer même après l'avoir rendu pour voir le résultat qui aurait pu être réalisé.
+
+## Auteurs
+[@947Coco](https://github.com/947Coco)
 
 ### Pré-requis
 
-- installer Pillow ( avec la commande : pip install Pillow ) si ce n'est pas deja fait
+- installer Pillow ```pip install Pillow`` si ce n'est pas deja fait
 - mettre en 1080p si l'affichage a un probleme ou si la fenetre est tros petite 
 
 #### A Savoir
